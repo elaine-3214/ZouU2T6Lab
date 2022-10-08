@@ -2,15 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="92080a91-72f0-44c0-8446-01fda13c5516" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ZouU2T6Lab.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/GeoLocation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/GeoRunner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LabRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BabyParrot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LabRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LabRunner.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
